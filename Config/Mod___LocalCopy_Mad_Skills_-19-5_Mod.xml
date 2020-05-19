@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RTMadSkills.ModSettings">
+		<tiered>True</tiered>
+		<greatMemoryAltered>True</greatMemoryAltered>
+		<multiplier>0</multiplier>
+		<dailyXPSaturationThreshold>4000</dailyXPSaturationThreshold>
+		<saturatedXPMultiplier>0.200000003</saturatedXPMultiplier>
+	</ModSettings>
+</SettingsBlock>

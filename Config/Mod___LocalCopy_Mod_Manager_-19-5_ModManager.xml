@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ModManager.ModManagerSettings">
+		<ModAttributes />
+		<ButtonAttributes />
+		<ShowPromotions>False</ShowPromotions>
+		<AddHugsLibToNewModLists>False</AddHugsLibToNewModLists>
+		<AddModManagerToNewModLists>False</AddModManagerToNewModLists>
+		<AddExpansionsToNewModLists>False</AddExpansionsToNewModLists>
+		<ShowSatisfiedRequirements>True</ShowSatisfiedRequirements>
+	</ModSettings>
+</SettingsBlock>

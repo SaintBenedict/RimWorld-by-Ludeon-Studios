@@ -2,6 +2,8 @@
 <SettingsBlock>
 	<ModSettings Class="Multiplayer.Client.MpSettings">
 		<username>Benedict</username>
-		<serverSettings IsNull="True" />
+		<serverSettings>
+			<autosaveInterval>0.5</autosaveInterval>
+		</serverSettings>
 	</ModSettings>
 </SettingsBlock>
