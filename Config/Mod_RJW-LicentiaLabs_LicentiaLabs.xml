@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="LicentiaLabs.LicentiaLabsSettings">
+		<stretching_enabled>True</stretching_enabled>
+		<permanentStretchChanceOffset>0.0597522482</permanentStretchChanceOffset>
+		<tempStretchChance>0.200000003</tempStretchChance>
+		<rapeStretchOffset>0.40166384</rapeStretchOffset>
+		<cumflationModifier>1</cumflationModifier>
+		<stretchShowOnlyPlayer>True</stretchShowOnlyPlayer>
+		<prolapseChance>0.100000001</prolapseChance>
+		<tearing_enabled>True</tearing_enabled>
+		<tearChance>0.200000003</tearChance>
+	</ModSettings>
+</SettingsBlock>

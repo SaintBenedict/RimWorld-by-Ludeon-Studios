@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AchtungMod.AchtungSettings">
+		<positioningEnabled>True</positioningEnabled>
+		<achtungKey>Alt</achtungKey>
+		<forceCommandMenuMode>PressForMenu</forceCommandMenuMode>
+		<forceCommandMenuKey>Ctrl</forceCommandMenuKey>
+		<BreakLevel>AlmostExtreme</BreakLevel>
+		<HealthLevel>InPainShock</HealthLevel>
+		<ignoreForbidden>False</ignoreForbidden>
+		<ignoreRestrictions>False</ignoreRestrictions>
+		<ignoreAssignments>False</ignoreAssignments>
+	</ModSettings>
+</SettingsBlock>

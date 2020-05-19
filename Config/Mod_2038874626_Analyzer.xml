@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsAnalyzer.PerfAnalSettings">
+		<ShowOnMainTab>True</ShowOnMainTab>
+		<UnlockFramerate>True</UnlockFramerate>
+		<KillMusicMan>True</KillMusicMan>
+		<AlertFilter>
+			<keys />
+			<values />
+		</AlertFilter>
+	</ModSettings>
+</SettingsBlock>

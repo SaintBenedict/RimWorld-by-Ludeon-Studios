@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Multiplayer.Client.MpSettings">
+		<username>Benedict</username>
+		<showDevInfo>True</showDevInfo>
+		<serverSettings>
+			<autosaveInterval>0.5</autosaveInterval>
+			<pauseOnAutosave>True</pauseOnAutosave>
+			<direct>True</direct>
+		</serverSettings>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Cities.ModSettings_Cities">
+		<lootScale>0.264084518</lootScale>
+		<citiesPer100kTiles>2~8</citiesPer100kTiles>
+	</ModSettings>
+</SettingsBlock>

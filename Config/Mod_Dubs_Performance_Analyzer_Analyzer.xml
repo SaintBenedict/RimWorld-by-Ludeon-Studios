@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsAnalyzer.PerfAnalSettings">
+		<AdvancedMode>True</AdvancedMode>
+		<MeshOnlyBuildings>True</MeshOnlyBuildings>
+		<ShowOnMainTab>True</ShowOnMainTab>
+		<FixRepair>True</FixRepair>
+		<FixGame>True</FixGame>
+		<OptimizeDrawInspectGizmoGrid>True</OptimizeDrawInspectGizmoGrid>
+		<OptimiseAlerts>True</OptimiseAlerts>
+		<AlertFilter>
+			<keys>
+				<li>RimWorld.Alert_LowMedicine</li>
+				<li>SimpleSidearms.rimworld.alerts.Alert_MissingSidearm</li>
+				<li>DubsBadHygiene.Alert_ContaminatedTower</li>
+				<li>DubsBadHygiene.Alert_WaterTemp</li>
+				<li>RimWorld.Alert_NeedWarden</li>
+			</keys>
+			<values>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+			</values>
+		</AlertFilter>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsMintMenus.Settings">
+		<HideFinished>True</HideFinished>
+		<LastSavedBuild>633</LastSavedBuild>
+		<BoxSizeX>90</BoxSizeX>
+		<BoxSizeY>75</BoxSizeY>
+		<infocardW>350</infocardW>
+		<MaxHeight>650</MaxHeight>
+		<InfoWidth>358</InfoWidth>
+		<billTabH>300</billTabH>
+		<bBoxSizeY>56</bBoxSizeY>
+		<listWidth>320</listWidth>
+		<ResearchListWidth>350</ResearchListWidth>
+		<WheelOnRightClick>True</WheelOnRightClick>
+		<ResourceReadout />
+		<WheelDefs>
+			<li>RimWorld.Designator_Cancel</li>
+			<li>RimWorld.Designator_Claim</li>
+			<li>RimWorld.Designator_Mine</li>
+			<li>RimWorld.Designator_PlantsHarvestWood</li>
+			<li>RimWorld.Designator_PlantsHarvest</li>
+			<li>RimWorld.Designator_Unforbid</li>
+			<li>RimWorld.Designator_RemoveFloor</li>
+			<li>RimWorld.Designator_AreaAllowedExpand</li>
+			<li>RimWorld.Designator_AreaAllowedClear</li>
+			<li>RimWorld.Designator_Deconstruct</li>
+		</WheelDefs>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Blueprints.Settings">
+		<copyKey>
+			<label>Còṗý кèýþìƞðìƞğ</label>
+			<modifiers>Control</modifiers>
+			<key>C</key>
+		</copyKey>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MoreTraitSlots.Settings">
+		<traitsMin>2.47142863</traitsMin>
+		<traitsMax>6.125</traitsMax>
+	</ModSettings>
+</SettingsBlock>

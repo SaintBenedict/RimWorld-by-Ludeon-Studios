@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="LeafLikeLife.LLLModSettings">
+		<LLLamountPenaltyConsciousness>-0.150000006</LLLamountPenaltyConsciousness>
+		<LLLamountPenaltyMovement>-0.100000001</LLLamountPenaltyMovement>
+		<LLLamountPenaltyRest>-0.100000001</LLLamountPenaltyRest>
+		<LLLamountHungerRate>0.300000012</LLLamountHungerRate>
+		<LLLamountAddictiveness>0.00999999978</LLLamountAddictiveness>
+		<LLLamountToleranceToAddict>0.5</LLLamountToleranceToAddict>
+		<LLLamountAsthmaDaysChance>360</LLLamountAsthmaDaysChance>
+		<LLLamountCancerDaysChance>720</LLLamountCancerDaysChance>
+		<LLLamountPenaltyWithdrawal>-8</LLLamountPenaltyWithdrawal>
+	</ModSettings>
+</SettingsBlock>

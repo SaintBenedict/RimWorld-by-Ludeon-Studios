@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BBBodySupport.BBbodyOption">
+		<FemaleToBBChance>1</FemaleToBBChance>
+		<ThinToBBChance>0</ThinToBBChance>
+		<HulkToBBChance>0</HulkToBBChance>
+		<FatToBBChance>0</FatToBBChance>
+		<SupportedAlienRaces>
+			<keys>
+				<li>Alien_Astoriel</li>
+			</keys>
+			<values>
+				<li>True</li>
+			</values>
+		</SupportedAlienRaces>
+	</ModSettings>
+</SettingsBlock>

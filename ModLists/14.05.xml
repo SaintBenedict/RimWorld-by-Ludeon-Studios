@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>14.05</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>me.samboycoding.betterloading</li>
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>rwmt.multiplayer</li>
+		<li>rwmt.multiplayercompatibility</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>erdelf.humanoidalienraces</li>
+		<li>jecrell.jecstools</li>
+		<li>roolo.giddyupcore</li>
+		<li>roolo.giddyuprideandroll</li>
+		<li>fluffy.modmanager</li>
+		<li>dylan.csl</li>
+		<li>dylan.alienchildrencompatibility</li>
+		<li>showhair.kv.rw</li>
+		<li>legendaryminuteman.pppr</li>
+		<li>petetimessix.simplesidearms</li>
+		<li>dubwise.dubsbadhygiene</li>
+		<li>vanillaexpanded.vwe</li>
+		<li>v1024.ebframework</li>
+		<li>leion247138.medicalhiv</li>
+		<li>vat.epoeforked</li>
+		<li>vat.epoeforkedroyalty</li>
+		<li>jaxxa.ed.enhancedoptions</li>
+		<li>grimm.unlimited</li>
+		<li>uuugggg.replacestuff</li>
+		<li>notfood.mendandrecycle</li>
+		<li>uuugggg.smartmedicine</li>
+		<li>ghxx.techadvancing</li>
+		<li>roolo.runandgun</li>
+		<li>linq.deathrattle</li>
+		<li>cabbage.rimcities</li>
+		<li>saucypigeon.realisticplanets</li>
+		<li>zylle.morevanillabiomes</li>
+		<li>murmur.walllight</li>
+		<li>rimfridge.kv.rw</li>
+		<li>lwm.deepstorage</li>
+		<li>jangodsoul.simplystorage</li>
+		<li>murmur.subsurfaceconduit</li>
+		<li>historic.industrialrollers</li>
+		<li>hanabishi.inwallcoolersandvents</li>
+		<li>albion.goexplore</li>
+		<li>falconne.labelsonfloor</li>
+		<li>dubwise.dubsmintminimap</li>
+		<li>dubwise.dubsmintmenus</li>
+		<li>carnysenpai.traitraritycolors</li>
+		<li>gloomy.gloomyfacemk2</li>
+		<li>tallidown.numbers</li>
+		<li>fluffy.commandpalette</li>
+		<li>dubwise.rimefeller</li>
+		<li>jaxe.foodrestrictions</li>
+		<li>hatti.animalfoodrestrictionintab</li>
+		<li>smashphil.carrycapacityfixed</li>
+		<li>oblitus.animalslogic</li>
+		<li>mehni.pickupandhaul</li>
+		<li>unlimitedhugs.defensivepositions</li>
+		<li>vanillaexpanded.vaeau</li>
+		<li>vanillaexpanded.vaebf</li>
+		<li>vanillaexpanded.vaeas</li>
+		<li>vanillaexpanded.vaecd</li>
+		<li>vanillaexpanded.vaed</li>
+		<li>vanillaexpanded.vaeed</li>
+		<li>vanillaexpanded.vaeis</li>
+		<li>vanillaexpanded.vaetr</li>
+		<li>vanillaexpanded.vaets</li>
+		<li>vanillaexpanded.vaet</li>
+		<li>drzhivago.vanillaanimalsoverhaulreloaded</li>
+		<li>sarg.geneticrim</li>
+		<li>ziehnhuey.milk</li>
+		<li>nif.toolbox</li>
+		<li>ogliss.thewhitecrayon.quarry</li>
+		<li>zylle.gemstones</li>
+		<li>vanillaexpanded.varme</li>
+		<li>vanillaexpanded.vappe</li>
+		<li>vanillaexpanded.vfecore</li>
+		<li>vanillaexpanded.vfeart</li>
+		<li>vanillaexpanded.vfemedical</li>
+		<li>vanillaexpanded.vfeproduction</li>
+		<li>vanillaexpanded.vfespacer</li>
+		<li>wemd.expandedfloors</li>
+		<li>wemd.expfloorsdropdownmenuaddon</li>
+		<li>skullog.scc</li>
+		<li>vanillaexpanded.vcef</li>
+		<li>darkagma.fishisnotpoison</li>
+		<li>nif.vanillafences</li>
+		<li>nif.vanillafencestab</li>
+		<li>nif.architectexpanded.fences</li>
+		<li>wofl.morefurnitureroyalty</li>
+		<li>royaltyvfecom.hawnhan</li>
+		<li>avilmask.commonsense</li>
+		<li>pathavoid.kv.rw</li>
+		<li>crustypeanut.rc2.core</li>
+		<li>crustypeanut.rc2.mame</li>
+		<li>crustypeanut.rc2.babe</li>
+		<li>crustypeanut.rc2.sase</li>
+		<li>thegoofyone.rc2nerfed</li>
+		<li>neceros.leaflikelife</li>
+		<li>thegoofyone.beerisalright</li>
+		<li>translucency.braininajar</li>
+		<li>notfood.infused</li>
+		<li>fluffy.blueprints</li>
+		<li>compilatron.powertab</li>
+		<li>sandy.rpgstyleinventory</li>
+		<li>telefonmast.graphicssettings</li>
+		<li>fluffy.animaltab</li>
+		<li>brrainz.cameraplus</li>
+		<li>caesarv6.damageindicators</li>
+		<li>crashm.colorcodedmoodbar.11</li>
+		<li>krafs.levelup</li>
+		<li>jaxe.bubbles</li>
+		<li>neceros.fastersmoothing</li>
+		<li>pinochemicali.skilledstonecutting</li>
+		<li>fuglypump.bulkstonecutting</li>
+		<li>lingluo.lovelyhairstyle</li>
+		<li>mengde.fe3h.ashenwolveshair</li>
+		<li>gloomy.gloomyhairmk2</li>
+		<li>jintuzilamian.hairstyle.afuwomenshairstyles</li>
+		<li>jintuzilamian.hairstyle.afumenshairstyles</li>
+		<li>moretraitslots.kv.rw</li>
+		<li>consolidatedtraits.kv.rw</li>
+		<li>horo.animaltrader.11</li>
+		<li>dalrae.garamadvancedapparel</li>
+		<li>dubwise.dubspaintshop</li>
+		<li>mlie.greyermorals</li>
+		<li>targhetti.showdrafteesweapon</li>
+		<li>automatic.prisonerbedsetowner</li>
+		<li>sr.bondagebed</li>
+		<li>extracting.organs</li>
+		<li>ratys.madskills</li>
+		<li>alias.degeneralizework</li>
+		<li>roskii.astoriel</li>
+		<li>maroontoon.kurin.har.nsfw</li>
+		<li>rebeka.dr</li>
+		<li>xahkarias.evolvedorgansredux</li>
+		<li>vanillaexpanded.vtexe</li>
+		<li>deon.royaltytexturesexpanded</li>
+		<li>ssulunge.bbbodysupport</li>
+		<li>ssulunge.bbbodyhuman</li>
+		<li>ssulunge.bbbodyalienraces</li>
+		<li>jelly.emptypawnlog</li>
+		<li>dubwise.dubsperformanceanalyzer</li>
+		<li>rim.job.world</li>
+		<li>abraxas.rjwracesupport</li>
+		<li>codyspring.vtexeme</li>
+		<li>void.charactereditor</li>
+		<li>funkyshit.worldedit</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>BetterLoading</li>
+		<li>Core</li>
+		<li>Royalty</li>
+		<li>Multiplayer</li>
+		<li>Multiplayer Compatibility</li>
+		<li>HugsLib</li>
+		<li>Humanoid Alien Races 2.0</li>
+		<li>JecsTools</li>
+		<li>Giddy-up! Core</li>
+		<li>Giddy-up! Ride and Roll</li>
+		<li>Mod Manager</li>
+		<li>Children, school and learning</li>
+		<li>Alien Children Compatibility</li>
+		<li>[KV] Show Hair With Hats or Hide All Hats - 1.1</li>
+		<li>Planetside Politics plus Religions</li>
+		<li>Simple sidearms</li>
+		<li>Dubs Bad Hygiene</li>
+		<li>Vanilla Weapons Expanded</li>
+		<li>Elite Bionics Framework</li>
+		<li>Medical IV</li>
+		<li>Expanded Prosthetics and Organ Engineering - Forked</li>
+		<li>EPOE-Forked: Royalty DLC expansion</li>
+		<li>ED-EnhancedOptions</li>
+		<li>Un-Limited</li>
+		<li>Replace Stuff</li>
+		<li>MendAndRecycle</li>
+		<li>Smart Medicine</li>
+		<li>Tech Advancing</li>
+		<li>RunAndGun</li>
+		<li>Death Rattle Unofficial</li>
+		<li>RimCities - Citadel Update</li>
+		<li>Realistic Planets - Fan Update</li>
+		<li>More Vanilla Biomes</li>
+		<li>Wall Light</li>
+		<li>[KV] RimFridge - 1.1</li>
+		<li>LWM's Deep Storage</li>
+		<li>[JDS] Simply Storage</li>
+		<li>Subsurface Conduit</li>
+		<li>Industrial Rollers</li>
+		<li>In-wall coolers and vents [1.1]</li>
+		<li>Go Explore!</li>
+		<li>Labels on Floor</li>
+		<li>Dubs Mint Minimap</li>
+		<li>Dubs Mint Menus</li>
+		<li>Trait Rarity Colors</li>
+		<li>Gloomy Face mk2</li>
+		<li>Numbers</li>
+		<li>Command Palette</li>
+		<li>Rimefeller</li>
+		<li>Animal Food Restrictions</li>
+		<li>AnimalFoodRestrictionInTab</li>
+		<li>Carry Capacity Fixed</li>
+		<li>Animals Logic</li>
+		<li>Pick Up And Haul</li>
+		<li>Defensive Positions</li>
+		<li>Vanilla Animals Expanded — Australia</li>
+		<li>Vanilla Animals Expanded — Boreal Forest</li>
+		<li>Vanilla Animals Expanded — Arid Shrubland</li>
+		<li>Vanilla Animals Expanded — Cats and Dogs</li>
+		<li>Vanilla Animals Expanded — Desert</li>
+		<li>Vanilla Animals Expanded — Extreme Desert</li>
+		<li>Vanilla Animals Expanded — Ice Sheet</li>
+		<li>Vanilla Animals Expanded — Tropical Rainforest</li>
+		<li>Vanilla Animals Expanded — Tropical Swamp</li>
+		<li>Vanilla Animals Expanded — Tundra</li>
+		<li>Vanilla Animals Overhaul Reloaded</li>
+		<li>Genetic Rim</li>
+		<li>Milkable Colonists</li>
+		<li>ToolBox</li>
+		<li>Quarry 1.1</li>
+		<li>Gemstones</li>
+		<li>Vanilla Armour Expanded</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>Vanilla Furniture Expanded</li>
+		<li>Vanilla Furniture Expanded - Art</li>
+		<li>Vanilla Furniture Expanded - Medical Module</li>
+		<li>Vanilla Furniture Expanded - Production</li>
+		<li>Vanilla Furniture Expanded - Spacer Module</li>
+		<li>[WD] Expanded Floors</li>
+		<li>[WD] Expanded Floors (Dropdown Menu Addon)</li>
+		<li>Small Comms Console Continued</li>
+		<li>Vanilla Fishing Expanded</li>
+		<li>Fish is not poison!</li>
+		<li>Vanilla Fences</li>
+		<li>Vanilla Fences (Fence Tab)</li>
+		<li>Architect Expanded - Fences</li>
+		<li>More Furniture [1.1] Royalty Patch</li>
+		<li>Royalty compatible with Expand Furniture Patch</li>
+		<li>Common Sense</li>
+		<li>[KV] Path Avoid - 1.1</li>
+		<li>[1.0, 1.1] RimCuisine 2 Core</li>
+		<li>RimCuisine 2 Meals and Munchies Expansion (Continued)</li>
+		<li>RimCuisine 2: Bottling and Booze Expansion (Continued)</li>
+		<li>RimCuisine 2: Smokes and Shrooms Expansion (Continued)</li>
+		<li>[1.0] RimCuisine 2: NERFED Drugs and Drinks</li>
+		<li>Leaf Like Life</li>
+		<li>Beer is Alright</li>
+		<li>Brain In a Jar</li>
+		<li>Infused</li>
+		<li>Blueprints</li>
+		<li>Power Tab</li>
+		<li>RPG Style Inventory</li>
+		<li>Graphics Settings+</li>
+		<li>Animal Tab</li>
+		<li>Camera+</li>
+		<li>Damage Indicators [1.1]</li>
+		<li>CM Color Coded Mood Bar [1.1]</li>
+		<li>Level Up!</li>
+		<li>Interaction Bubbles</li>
+		<li>Faster Smoothing</li>
+		<li>Skilled Stonecutting</li>
+		<li>Bulk Stonecutting</li>
+		<li>[SS]Lovely Hair Style</li>
+		<li>FE3H Ashen Wolves Hair</li>
+		<li>Gloomy Hair mk2</li>
+		<li>AFU女士发型_Women's hairstyles</li>
+		<li>AFU男士发型_Men's hairstyles</li>
+		<li>[KV] More Trait Slots - 1.1</li>
+		<li>[KV] Consolidated Traits - 1.1</li>
+		<li>Orbital Animal Traders</li>
+		<li>Garam, Advanced Apparel</li>
+		<li>Dub's Paint Shop</li>
+		<li>Greyer morals (Continued)</li>
+		<li>Show Draftees Weapon</li>
+		<li>Set Owner for Prisoner Beds</li>
+		<li>BondageBed Torture</li>
+		<li>Prisoner Harvesting</li>
+		<li>Mad Skills</li>
+		<li>De-generalize Work</li>
+		<li>Astoriel</li>
+		<li>Kurin HAR Edition</li>
+		<li>Dragonian RimjobEdtion</li>
+		<li>EvolvedOrgansRedux</li>
+		<li>Vanilla Textures Expanded</li>
+		<li>Royalty Textures Expanded</li>
+		<li>FemaleBB BodyType Support</li>
+		<li>FemaleBB BodyType for Human</li>
+		<li>FemaleBB BodyType for Alien Races </li>
+		<li>Empty Pawn Log</li>
+		<li>Dubs Performance Analyzer</li>
+		<li>RimJobWorld</li>
+		<li>RJW - RaceSupport</li>
+		<li>Vanilla Textures Expanded - Mod Expansion</li>
+		<li>Character Editor</li>
+		<li>WorldEdit</li>
+	</modNames>
+</ModList>
