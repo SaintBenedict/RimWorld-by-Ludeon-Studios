@@ -3,7 +3,10 @@
 	<ModSettings Class="Multiplayer.Client.MpSettings">
 		<username>Benedict</username>
 		<serverSettings>
-			<autosaveInterval>0.5</autosaveInterval>
+			<autosaveInterval>1</autosaveInterval>
+			<pauseOnAutosave>True</pauseOnAutosave>
+			<direct>True</direct>
+			<arbiter>False</arbiter>
 		</serverSettings>
 	</ModSettings>
 </SettingsBlock>
