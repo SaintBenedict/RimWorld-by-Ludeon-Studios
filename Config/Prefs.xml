@@ -15,7 +15,7 @@
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
   <adaptiveTrainingEnabled>False</adaptiveTrainingEnabled>
   <preferredNames />
-  <resourceReadoutCategorized>False</resourceReadoutCategorized>
+  <resourceReadoutCategorized>True</resourceReadoutCategorized>
   <runInBackground>True</runInBackground>
   <edgeScreenScroll>False</edgeScreenScroll>
   <temperatureMode>Celsius</temperatureMode>

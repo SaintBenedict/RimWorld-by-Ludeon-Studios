@@ -12,8 +12,6 @@
 		<AddTrait_Nerves>True</AddTrait_Nerves>
 		<AddTrait_Zoophiliac>True</AddTrait_Zoophiliac>
 		<ForbidKidnap>False</ForbidKidnap>
-		<override_lovin>True</override_lovin>
-		<override_mayin>True</override_mayin>
 		<override_RJW_designation_checks>True</override_RJW_designation_checks>
 		<override_control>True</override_control>
 	</ModSettings>
