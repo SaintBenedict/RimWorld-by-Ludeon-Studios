@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="SmartMedicine.Settings">
+		<minimalMedicineForNonUrgent>True</minimalMedicineForNonUrgent>
 		<stockUpEnough>1.5</stockUpEnough>
+		<fieldTendingForLackOfBed>True</fieldTendingForLackOfBed>
 	</ModSettings>
 </SettingsBlock>

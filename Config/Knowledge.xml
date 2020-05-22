@@ -79,7 +79,7 @@
     </li>
     <li>
       <key>CameraDolly</key>
-      <value>0.032</value>
+      <value>0.05600001</value>
     </li>
     <li>
       <key>CameraZoom</key>
@@ -271,7 +271,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedMelee</key>
-      <value>0.8</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedDrafted</key>
