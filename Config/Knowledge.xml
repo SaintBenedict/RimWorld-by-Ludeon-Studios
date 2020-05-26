@@ -139,7 +139,7 @@
     </li>
     <li>
       <key>AnimalTraining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>InfoCard</key>
@@ -215,7 +215,7 @@
     </li>
     <li>
       <key>TradeGoodsMustBeNearBeacon</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ArrestingCreatesEnemies</key>
@@ -275,7 +275,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedDrafted</key>
-      <value>0.8</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsLosingWeapons</key>
