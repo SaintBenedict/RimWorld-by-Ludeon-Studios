@@ -146,4 +146,6 @@
   <mod packageId="automatic.prisonerbedsetowner" />
   <mod packageId="stBenedict.gitOptcore" />
   <mod packageId="Abraxas.RJW.RaceSupport" />
+  <mod packageId="stBenedict.gitOpt" />
+  <mod packageId="stBenedict.gitOpt.core" />
 </Mods>

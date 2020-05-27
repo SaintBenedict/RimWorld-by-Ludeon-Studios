@@ -2,6 +2,8 @@
 <SettingsBlock>
 	<ModSettings Class="ShowHair.Settings">
 		<HairToHide />
-		<HatsThatHide />
+		<HatsThatHide>
+			<li>Apparel_ArmorHelmetCataphract</li>
+		</HatsThatHide>
 	</ModSettings>
 </SettingsBlock>
