@@ -25,10 +25,10 @@
   <pauseOnLoad>False</pauseOnLoad>
   <automaticPauseMode>MajorThreat</automaticPauseMode>
   <mapDragSensitivity>1.3</mapDragSensitivity>
-  <devMode>False</devMode>
+  <devMode>True</devMode>
   <langFolderName>Russian (Русский)</langFolderName>
   <logVerbose>False</logVerbose>
   <pauseOnError>False</pauseOnError>
-  <resetModsConfigOnCrash>True</resetModsConfigOnCrash>
+  <resetModsConfigOnCrash>False</resetModsConfigOnCrash>
   <simulateNotOwningRoyalty>False</simulateNotOwningRoyalty>
 </PrefsData>
