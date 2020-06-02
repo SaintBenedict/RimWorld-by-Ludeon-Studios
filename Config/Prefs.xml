@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PrefsData>
-  <volumeGame>0.09823678</volumeGame>
+  <volumeGame>0.5856423</volumeGame>
   <volumeMusic>0</volumeMusic>
   <volumeAmbient>1</volumeAmbient>
   <screenWidth>1920</screenWidth>
@@ -25,9 +25,10 @@
   <pauseOnLoad>False</pauseOnLoad>
   <automaticPauseMode>MajorThreat</automaticPauseMode>
   <mapDragSensitivity>1.3</mapDragSensitivity>
-  <devMode>True</devMode>
+  <devMode>False</devMode>
   <langFolderName>Russian (Русский)</langFolderName>
   <logVerbose>False</logVerbose>
   <pauseOnError>False</pauseOnError>
-  <resetModsConfigOnCrash>False</resetModsConfigOnCrash>
+  <resetModsConfigOnCrash>True</resetModsConfigOnCrash>
+  <simulateNotOwningRoyalty>False</simulateNotOwningRoyalty>
 </PrefsData>

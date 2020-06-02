@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="rjw.RJWSettings">
+		<animal_on_animal_enabled>True</animal_on_animal_enabled>
+		<bestiality_enabled>True</bestiality_enabled>
+		<necrophilia_enabled>True</necrophilia_enabled>
+		<designated_freewill>True</designated_freewill>
+		<rape_enabled>True</rape_enabled>
+		<colonist_CP_rape>True</colonist_CP_rape>
+		<visitor_CP_rape>True</visitor_CP_rape>
+		<animal_CP_rape>True</animal_CP_rape>
+		<rape_beating>True</rape_beating>
+		<NymphWild>True</NymphWild>
+		<NymphPermanentManhunter>True</NymphPermanentManhunter>
+		<FemaleFuta>True</FemaleFuta>
+		<MaleTrap>True</MaleTrap>
+		<STD_enabled>True</STD_enabled>
+		<cum_on_body_amount_adjust>1</cum_on_body_amount_adjust>
+		<sex_minimum_age>7</sex_minimum_age>
+		<sex_free_for_all>16</sex_free_for_all>
+		<sexneed_decay_rate>1</sexneed_decay_rate>
+		<nonFutaWomenRaping_MaxVulnerability>0.800000012</nonFutaWomenRaping_MaxVulnerability>
+		<rapee_MinVulnerability_human>1.20000005</rapee_MinVulnerability_human>
+		<male_nymph_chance>0</male_nymph_chance>
+		<futa_nymph_chance>0</futa_nymph_chance>
+		<futa_natives_chance>0</futa_natives_chance>
+		<futa_spacers_chance>0.5</futa_spacers_chance>
+		<RPG_hero_control>True</RPG_hero_control>
+	</ModSettings>
+</SettingsBlock>

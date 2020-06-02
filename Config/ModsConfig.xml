@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.1.2624 rev880</version>
+  <version>1.1.2647 rev894</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>me.samboycoding.betterloading</li>
@@ -34,7 +34,7 @@
     <li>cabbage.rimcities</li>
     <li>murmur.walllight</li>
     <li>rimfridge.kv.rw</li>
-    <li>lwm.deepstorage</li>
+    <li>lwm.deepstorage_steam</li>
     <li>jangodsoul.simplystorage</li>
     <li>murmur.subsurfaceconduit</li>
     <li>hanabishi.inwallcoolersandvents</li>

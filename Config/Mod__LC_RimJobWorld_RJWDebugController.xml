@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="rjw.RJWDebugSettings">
+		<whoringtab_enabled>True</whoringtab_enabled>
+		<submit_button_enabled>True</submit_button_enabled>
+		<show_RJW_designation_box>True</show_RJW_designation_box>
+		<StackRjwParts>True</StackRjwParts>
+		<maxDistancetowalk>250</maxDistancetowalk>
+		<AddTrait_Rapist>True</AddTrait_Rapist>
+		<AddTrait_Masocist>True</AddTrait_Masocist>
+		<AddTrait_Nymphomaniac>True</AddTrait_Nymphomaniac>
+		<AddTrait_Necrophiliac>True</AddTrait_Necrophiliac>
+		<AddTrait_Nerves>True</AddTrait_Nerves>
+		<AddTrait_Zoophiliac>True</AddTrait_Zoophiliac>
+		<ForbidKidnap>False</ForbidKidnap>
+		<override_lovin>True</override_lovin>
+		<override_mayin>True</override_mayin>
+		<override_RJW_designation_checks>True</override_RJW_designation_checks>
+		<override_control>True</override_control>
+	</ModSettings>
+</SettingsBlock>

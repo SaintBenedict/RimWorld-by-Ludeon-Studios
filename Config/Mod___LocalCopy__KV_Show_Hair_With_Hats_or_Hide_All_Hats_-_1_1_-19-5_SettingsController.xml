@@ -3,7 +3,12 @@
 	<ModSettings Class="ShowHair.Settings">
 		<HairToHide />
 		<HatsThatHide>
+			<li>Apparel_WarMask</li>
+			<li>Apparel_WarVeil</li>
 			<li>Apparel_ArmorHelmetCataphract</li>
+			<li>Apparel_ArmorHelmetCataphractPrestige</li>
+			<li>VAE_Headgear_StoneWarMask</li>
+			<li>VAE_Headgear_GasMask</li>
 		</HatsThatHide>
 	</ModSettings>
 </SettingsBlock>
